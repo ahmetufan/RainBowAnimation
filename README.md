@@ -17,7 +17,7 @@ Brush: Implements Brush.sweepGradient for vibrant color transitions, optimized w
 
 
 # License  :page_with_curl:<br/>
-ComposeAnimation is available under the MIT  license. See the [LICENSE]() file for more info.
+RainBow Animation is available under the MIT  license. See the [LICENSE](https://github.com/ahmetufan/RainBowAnimation/blob/master/LICENSE) file for more info.
 
 
 
